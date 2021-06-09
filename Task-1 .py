@@ -2,7 +2,8 @@
 # coding: utf-8
 
 # # The Sparks Foundation 
-
+# # Data Science and Business analytics Internship
+# # By Yash Pahuja
 # ### Task 1 - Prediction using Supervised ML
 
 # ### Predicting the percentage of an student based on number of study hours
